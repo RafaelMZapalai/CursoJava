@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="906870db-b851-43ed-aaa9-3d2b7b50fcc6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Fundamentos/areaCircunferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentos/Temperatuta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Temperatuta.executor": "Run",
     "Application.areaCircunferencia.executor": "Run",
     "Application.primeiroPrograma.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -50,7 +51,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.areaCircunferencia">
+  <component name="RunManager" selected="Application.Temperatuta">
+    <configuration name="Temperatuta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentos.Temperatuta" />
+      <module name="CursoUdemyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Fundamentos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="areaCircunferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fundamentos.areaCircunferencia" />
       <module name="CursoUdemyJava" />
@@ -79,6 +93,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Temperatuta" />
         <item itemvalue="Application.areaCircunferencia" />
         <item itemvalue="Application.primeiroPrograma" />
       </list>
@@ -100,7 +115,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726837428263</updated>
-      <workItem from="1726837429294" duration="1411000" />
+      <workItem from="1726837429294" duration="2353000" />
     </task>
     <servers />
   </component>
