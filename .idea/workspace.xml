@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="906870db-b851-43ed-aaa9-3d2b7b50fcc6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Fundamentos/tiposPrimitivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentos/notaçaoPonto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,9 @@
     "Application.Interferencia.executor": "Run",
     "Application.Temperatuta.executor": "Run",
     "Application.areaCircunferencia.executor": "Run",
+    "Application.notaçaoPonto.executor": "Run",
     "Application.primeiroPrograma.executor": "Run",
+    "Application.tiposPrimitivos.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -52,7 +54,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.tiposPrimitivos">
+  <component name="RunManager" selected="Application.notaçaoPonto">
     <configuration name="Interferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fundamentos.Interferencia" />
       <module name="CursoUdemyJava" />
@@ -92,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="primeiroPrograma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fundamentos.primeiroPrograma" />
+    <configuration name="notaçaoPonto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentos.notaçaoPonto" />
       <module name="CursoUdemyJava" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.notaçaoPonto" />
         <item itemvalue="Application.tiposPrimitivos" />
         <item itemvalue="Application.Interferencia" />
         <item itemvalue="Application.Temperatuta" />
         <item itemvalue="Application.areaCircunferencia" />
-        <item itemvalue="Application.primeiroPrograma" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +146,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726837428263</updated>
-      <workItem from="1726837429294" duration="4742000" />
+      <workItem from="1726837429294" duration="6967000" />
     </task>
     <servers />
   </component>
