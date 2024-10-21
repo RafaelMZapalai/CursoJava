@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="906870db-b851-43ed-aaa9-3d2b7b50fcc6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Fundamentos/tipoString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fundamentos/Console.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Console.executor&quot;: &quot;Run&quot;,
     &quot;Application.Interferencia.executor&quot;: &quot;Run&quot;,
     &quot;Application.Temperatuta.executor&quot;: &quot;Run&quot;,
     &quot;Application.areaCircunferencia.executor&quot;: &quot;Run&quot;,
@@ -55,9 +56,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.tipoString">
-    <configuration name="Interferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fundamentos.Interferencia" />
+  <component name="RunManager" selected="Application.Console">
+    <configuration name="Console" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentos.Console" />
       <module name="CursoUdemyJava" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Temperatuta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fundamentos.Temperatuta" />
+    <configuration name="Interferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fundamentos.Interferencia" />
       <module name="CursoUdemyJava" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Console" />
         <item itemvalue="Application.tipoString" />
         <item itemvalue="Application.notaçaoPonto" />
         <item itemvalue="Application.tiposPrimitivos" />
         <item itemvalue="Application.Interferencia" />
-        <item itemvalue="Application.Temperatuta" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +153,8 @@
       <workItem from="1726869997543" duration="9000" />
       <workItem from="1726871144590" duration="10000" />
       <workItem from="1727092196134" duration="667000" />
-      <workItem from="1727117040777" duration="3013000" />
+      <workItem from="1727117040777" duration="6035000" />
+      <workItem from="1727135022912" duration="14000" />
     </task>
     <servers />
   </component>
